@@ -7,7 +7,7 @@ Simple Python and shell scripts to run a fan based on CPU temperature for your R
 This setup uses GPIO pin 18 with cheap and reliable NPN Transistor (BC337). 
 
 **Wiring Diagram**
-![Raspberry Pi Fan Wiring Diagram](https://github.com/vollmann-ariel/Raspberry-Pi-Fan-Control/blob/master/GPIO-Pinout-Diagram-2.png?raw=true)
+![Raspberry Pi Fan Wiring Diagram](https://github.com/vollmann-ariel/Raspberry-Pi-Fan-Control/blob/master/GPIO-Pinout-Diagram.png?raw=true)
 
 ## Running on Boot
 
