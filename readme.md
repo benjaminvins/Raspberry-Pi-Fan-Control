@@ -18,4 +18,4 @@ Here's how to run this script automatically on boot:
 
 ### Helpful Links
 - [How to control a fan to cool the CPU of your RaspBerryPi](https://hackernoon.com/how-to-control-a-fan-to-cool-the-cpu-of-your-raspberrypi-3313b6e7f92c)
-- [Execute Script on Start Up](https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up)
+- [Five Ways To Run a Program On Your Raspberry Pi At Startup](https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/)
